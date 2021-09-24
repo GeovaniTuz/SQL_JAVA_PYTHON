@@ -1,0 +1,3 @@
+SHOW DATABASES;
+SELECT FROM cursoyii2;
+DESCRIBE user;
